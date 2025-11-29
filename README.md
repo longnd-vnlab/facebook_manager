@@ -1,4 +1,6 @@
 # 🔵 Facebook Account Manager
+<img width="1410" height="894" alt="Screenshot from 2025-11-29 23-18-58" src="https://github.com/user-attachments/assets/0eae0458-2d3b-467f-915a-db443a4f49b8" />
+
 
 A modern PyQt6 GUI application for managing multiple Facebook accounts with separate Chrome profiles using DrissionPage.
 
