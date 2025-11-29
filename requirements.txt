@@ -1,0 +1,13 @@
+# Facebook Account Manager - Dependencies
+
+# GUI Framework
+PyQt6>=6.4.0
+
+# Browser Automation
+DrissionPage>=4.0.0
+
+# 2FA Authentication
+pyotp>=2.8.0
+
+# Build tools (optional, for creating executables)
+pyinstaller>=5.0.0

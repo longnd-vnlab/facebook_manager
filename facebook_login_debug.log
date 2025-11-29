@@ -1,0 +1,553 @@
+2025-11-29 20:48:27,220 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:48:27,220 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:48:27,221 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:59321
+2025-11-29 20:48:27,422 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:59321
+2025-11-29 20:48:27,623 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:59321
+2025-11-29 20:48:27,824 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (4): 127.0.0.1:59321
+2025-11-29 20:48:28,025 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (5): 127.0.0.1:59321
+2025-11-29 20:48:28,226 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (6): 127.0.0.1:59321
+2025-11-29 20:48:28,426 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (7): 127.0.0.1:59321
+2025-11-29 20:48:28,627 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (8): 127.0.0.1:59321
+2025-11-29 20:48:28,828 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (9): 127.0.0.1:59321
+2025-11-29 20:48:29,028 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (10): 127.0.0.1:59321
+2025-11-29 20:48:29,229 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (11): 127.0.0.1:59321
+2025-11-29 20:48:29,430 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (12): 127.0.0.1:59321
+2025-11-29 20:48:29,631 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (13): 127.0.0.1:59321
+2025-11-29 20:48:29,832 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (14): 127.0.0.1:59321
+2025-11-29 20:48:30,034 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (15): 127.0.0.1:59321
+2025-11-29 20:48:30,235 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (16): 127.0.0.1:59321
+2025-11-29 20:48:30,436 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (17): 127.0.0.1:59321
+2025-11-29 20:48:30,636 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (18): 127.0.0.1:59321
+2025-11-29 20:48:30,838 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (19): 127.0.0.1:59321
+2025-11-29 20:48:31,039 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (20): 127.0.0.1:59321
+2025-11-29 20:48:31,240 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (21): 127.0.0.1:59321
+2025-11-29 20:48:31,440 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (22): 127.0.0.1:59321
+2025-11-29 20:48:31,641 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (23): 127.0.0.1:59321
+2025-11-29 20:48:31,842 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (24): 127.0.0.1:59321
+2025-11-29 20:48:32,044 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (25): 127.0.0.1:59321
+2025-11-29 20:48:32,245 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (26): 127.0.0.1:59321
+2025-11-29 20:48:32,446 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (27): 127.0.0.1:59321
+2025-11-29 20:48:32,647 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (28): 127.0.0.1:59321
+2025-11-29 20:48:32,707 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:48:32,708 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:48:32,708 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:58655
+2025-11-29 20:48:32,848 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (29): 127.0.0.1:59321
+2025-11-29 20:48:32,909 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:58655
+2025-11-29 20:48:33,049 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (30): 127.0.0.1:59321
+2025-11-29 20:48:33,110 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:58655
+2025-11-29 20:48:33,249 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (31): 127.0.0.1:59321
+2025-11-29 20:48:33,310 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (4): 127.0.0.1:58655
+2025-11-29 20:48:33,450 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (32): 127.0.0.1:59321
+2025-11-29 20:48:33,511 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (5): 127.0.0.1:58655
+2025-11-29 20:48:33,651 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (33): 127.0.0.1:59321
+2025-11-29 20:48:33,712 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (6): 127.0.0.1:58655
+2025-11-29 20:48:33,852 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (34): 127.0.0.1:59321
+2025-11-29 20:48:33,913 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (7): 127.0.0.1:58655
+2025-11-29 20:48:34,053 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (35): 127.0.0.1:59321
+2025-11-29 20:48:34,113 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (8): 127.0.0.1:58655
+2025-11-29 20:48:34,253 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (36): 127.0.0.1:59321
+2025-11-29 20:48:34,315 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (9): 127.0.0.1:58655
+2025-11-29 20:48:34,454 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (37): 127.0.0.1:59321
+2025-11-29 20:48:34,516 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (10): 127.0.0.1:58655
+2025-11-29 20:48:34,655 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (38): 127.0.0.1:59321
+2025-11-29 20:48:34,717 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (11): 127.0.0.1:58655
+2025-11-29 20:48:34,856 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (39): 127.0.0.1:59321
+2025-11-29 20:48:34,917 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (12): 127.0.0.1:58655
+2025-11-29 20:48:35,057 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (40): 127.0.0.1:59321
+2025-11-29 20:48:35,118 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (13): 127.0.0.1:58655
+2025-11-29 20:48:35,258 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (41): 127.0.0.1:59321
+2025-11-29 20:48:35,319 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (14): 127.0.0.1:58655
+2025-11-29 20:48:35,459 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (42): 127.0.0.1:59321
+2025-11-29 20:48:35,520 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (15): 127.0.0.1:58655
+2025-11-29 20:48:35,660 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (43): 127.0.0.1:59321
+2025-11-29 20:48:35,720 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (16): 127.0.0.1:58655
+2025-11-29 20:48:35,860 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (44): 127.0.0.1:59321
+2025-11-29 20:48:35,921 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (17): 127.0.0.1:58655
+2025-11-29 20:48:36,061 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (45): 127.0.0.1:59321
+2025-11-29 20:48:36,122 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (18): 127.0.0.1:58655
+2025-11-29 20:48:36,262 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (46): 127.0.0.1:59321
+2025-11-29 20:48:36,322 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (19): 127.0.0.1:58655
+2025-11-29 20:48:36,463 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (47): 127.0.0.1:59321
+2025-11-29 20:48:36,523 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (20): 127.0.0.1:58655
+2025-11-29 20:48:36,664 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (48): 127.0.0.1:59321
+2025-11-29 20:48:36,724 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (21): 127.0.0.1:58655
+2025-11-29 20:48:36,865 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (49): 127.0.0.1:59321
+2025-11-29 20:48:36,924 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (22): 127.0.0.1:58655
+2025-11-29 20:48:37,066 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (50): 127.0.0.1:59321
+2025-11-29 20:48:37,125 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (23): 127.0.0.1:58655
+2025-11-29 20:48:37,267 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (51): 127.0.0.1:59321
+2025-11-29 20:48:37,326 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (24): 127.0.0.1:58655
+2025-11-29 20:48:37,468 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (52): 127.0.0.1:59321
+2025-11-29 20:48:37,527 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (25): 127.0.0.1:58655
+2025-11-29 20:48:37,669 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (53): 127.0.0.1:59321
+2025-11-29 20:48:37,728 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (26): 127.0.0.1:58655
+2025-11-29 20:48:37,870 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (54): 127.0.0.1:59321
+2025-11-29 20:48:37,929 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (27): 127.0.0.1:58655
+2025-11-29 20:48:38,071 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (55): 127.0.0.1:59321
+2025-11-29 20:48:38,129 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (28): 127.0.0.1:58655
+2025-11-29 20:48:38,272 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (56): 127.0.0.1:59321
+2025-11-29 20:48:38,330 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (29): 127.0.0.1:58655
+2025-11-29 20:48:38,473 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (57): 127.0.0.1:59321
+2025-11-29 20:48:38,531 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (30): 127.0.0.1:58655
+2025-11-29 20:48:38,674 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (58): 127.0.0.1:59321
+2025-11-29 20:48:38,732 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (31): 127.0.0.1:58655
+2025-11-29 20:48:38,874 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (59): 127.0.0.1:59321
+2025-11-29 20:48:38,932 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (32): 127.0.0.1:58655
+2025-11-29 20:48:39,075 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (60): 127.0.0.1:59321
+2025-11-29 20:48:39,133 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (33): 127.0.0.1:58655
+2025-11-29 20:48:39,276 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (61): 127.0.0.1:59321
+2025-11-29 20:48:39,334 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (34): 127.0.0.1:58655
+2025-11-29 20:48:39,476 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (62): 127.0.0.1:59321
+2025-11-29 20:48:39,535 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (35): 127.0.0.1:58655
+2025-11-29 20:48:39,677 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (63): 127.0.0.1:59321
+2025-11-29 20:48:39,735 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (36): 127.0.0.1:58655
+2025-11-29 20:48:39,878 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (64): 127.0.0.1:59321
+2025-11-29 20:48:39,936 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (37): 127.0.0.1:58655
+2025-11-29 20:48:40,079 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (65): 127.0.0.1:59321
+2025-11-29 20:48:40,137 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (38): 127.0.0.1:58655
+2025-11-29 20:48:40,279 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (66): 127.0.0.1:59321
+2025-11-29 20:48:40,338 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (39): 127.0.0.1:58655
+2025-11-29 20:48:40,480 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (67): 127.0.0.1:59321
+2025-11-29 20:48:40,538 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (40): 127.0.0.1:58655
+2025-11-29 20:48:40,681 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (68): 127.0.0.1:59321
+2025-11-29 20:48:40,739 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (41): 127.0.0.1:58655
+2025-11-29 20:48:40,882 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (69): 127.0.0.1:59321
+2025-11-29 20:48:40,940 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (42): 127.0.0.1:58655
+2025-11-29 20:48:41,083 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (70): 127.0.0.1:59321
+2025-11-29 20:48:41,140 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (43): 127.0.0.1:58655
+2025-11-29 20:48:41,283 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (71): 127.0.0.1:59321
+2025-11-29 20:48:41,341 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (44): 127.0.0.1:58655
+2025-11-29 20:48:41,484 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (72): 127.0.0.1:59321
+2025-11-29 20:48:41,542 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (45): 127.0.0.1:58655
+2025-11-29 20:48:41,685 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (73): 127.0.0.1:59321
+2025-11-29 20:48:41,742 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (46): 127.0.0.1:58655
+2025-11-29 20:48:41,886 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (74): 127.0.0.1:59321
+2025-11-29 20:48:41,943 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (47): 127.0.0.1:58655
+2025-11-29 20:48:42,086 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (75): 127.0.0.1:59321
+2025-11-29 20:48:42,144 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (48): 127.0.0.1:58655
+2025-11-29 20:48:42,287 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (76): 127.0.0.1:59321
+2025-11-29 20:48:42,345 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (49): 127.0.0.1:58655
+2025-11-29 20:48:42,488 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (77): 127.0.0.1:59321
+2025-11-29 20:48:42,545 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (50): 127.0.0.1:58655
+2025-11-29 20:48:42,689 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (78): 127.0.0.1:59321
+2025-11-29 20:48:42,746 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (51): 127.0.0.1:58655
+2025-11-29 20:48:42,890 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (79): 127.0.0.1:59321
+2025-11-29 20:48:42,947 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (52): 127.0.0.1:58655
+2025-11-29 20:48:43,090 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (80): 127.0.0.1:59321
+2025-11-29 20:48:43,148 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (53): 127.0.0.1:58655
+2025-11-29 20:48:43,291 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (81): 127.0.0.1:59321
+2025-11-29 20:48:43,349 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (54): 127.0.0.1:58655
+2025-11-29 20:48:43,492 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (82): 127.0.0.1:59321
+2025-11-29 20:48:43,549 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (55): 127.0.0.1:58655
+2025-11-29 20:48:43,693 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (83): 127.0.0.1:59321
+2025-11-29 20:48:43,750 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (56): 127.0.0.1:58655
+2025-11-29 20:48:43,894 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (84): 127.0.0.1:59321
+2025-11-29 20:48:43,951 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (57): 127.0.0.1:58655
+2025-11-29 20:48:44,094 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (85): 127.0.0.1:59321
+2025-11-29 20:48:44,152 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (58): 127.0.0.1:58655
+2025-11-29 20:48:44,295 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (86): 127.0.0.1:59321
+2025-11-29 20:48:44,353 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (59): 127.0.0.1:58655
+2025-11-29 20:48:44,496 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (87): 127.0.0.1:59321
+2025-11-29 20:48:44,553 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (60): 127.0.0.1:58655
+2025-11-29 20:48:44,697 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (88): 127.0.0.1:59321
+2025-11-29 20:48:44,754 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (61): 127.0.0.1:58655
+2025-11-29 20:48:44,898 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (89): 127.0.0.1:59321
+2025-11-29 20:48:44,955 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (62): 127.0.0.1:58655
+2025-11-29 20:48:45,098 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (90): 127.0.0.1:59321
+2025-11-29 20:48:45,155 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (63): 127.0.0.1:58655
+2025-11-29 20:48:45,299 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (91): 127.0.0.1:59321
+2025-11-29 20:48:45,356 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (64): 127.0.0.1:58655
+2025-11-29 20:48:45,500 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (92): 127.0.0.1:59321
+2025-11-29 20:48:45,557 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (65): 127.0.0.1:58655
+2025-11-29 20:48:45,701 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (93): 127.0.0.1:59321
+2025-11-29 20:48:45,758 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (66): 127.0.0.1:58655
+2025-11-29 20:48:45,901 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (94): 127.0.0.1:59321
+2025-11-29 20:48:45,958 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (67): 127.0.0.1:58655
+2025-11-29 20:48:46,102 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (95): 127.0.0.1:59321
+2025-11-29 20:48:46,159 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (68): 127.0.0.1:58655
+2025-11-29 20:48:46,303 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (96): 127.0.0.1:59321
+2025-11-29 20:48:46,360 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (69): 127.0.0.1:58655
+2025-11-29 20:48:46,504 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (97): 127.0.0.1:59321
+2025-11-29 20:48:46,560 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (70): 127.0.0.1:58655
+2025-11-29 20:48:46,704 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (98): 127.0.0.1:59321
+2025-11-29 20:48:46,761 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (71): 127.0.0.1:58655
+2025-11-29 20:48:46,905 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (99): 127.0.0.1:59321
+2025-11-29 20:48:46,962 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (72): 127.0.0.1:58655
+2025-11-29 20:48:47,106 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (100): 127.0.0.1:59321
+2025-11-29 20:48:47,163 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (73): 127.0.0.1:58655
+2025-11-29 20:48:47,307 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (101): 127.0.0.1:59321
+2025-11-29 20:48:47,364 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (74): 127.0.0.1:58655
+2025-11-29 20:48:47,508 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (102): 127.0.0.1:59321
+2025-11-29 20:48:47,565 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (75): 127.0.0.1:58655
+2025-11-29 20:48:47,708 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (103): 127.0.0.1:59321
+2025-11-29 20:48:47,766 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (76): 127.0.0.1:58655
+2025-11-29 20:48:47,909 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (104): 127.0.0.1:59321
+2025-11-29 20:48:47,966 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (77): 127.0.0.1:58655
+2025-11-29 20:48:48,110 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (105): 127.0.0.1:59321
+2025-11-29 20:48:48,167 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (78): 127.0.0.1:58655
+2025-11-29 20:48:48,311 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (106): 127.0.0.1:59321
+2025-11-29 20:48:48,368 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (79): 127.0.0.1:58655
+2025-11-29 20:48:48,511 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (107): 127.0.0.1:59321
+2025-11-29 20:48:48,569 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (80): 127.0.0.1:58655
+2025-11-29 20:48:48,712 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (108): 127.0.0.1:59321
+2025-11-29 20:48:48,770 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (81): 127.0.0.1:58655
+2025-11-29 20:48:48,913 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (109): 127.0.0.1:59321
+2025-11-29 20:48:48,972 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (82): 127.0.0.1:58655
+2025-11-29 20:48:49,114 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (110): 127.0.0.1:59321
+2025-11-29 20:48:49,173 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (83): 127.0.0.1:58655
+2025-11-29 20:48:49,315 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (111): 127.0.0.1:59321
+2025-11-29 20:48:49,374 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (84): 127.0.0.1:58655
+2025-11-29 20:48:49,517 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (112): 127.0.0.1:59321
+2025-11-29 20:48:49,574 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (85): 127.0.0.1:58655
+2025-11-29 20:48:49,718 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (113): 127.0.0.1:59321
+2025-11-29 20:48:49,775 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (86): 127.0.0.1:58655
+2025-11-29 20:48:49,919 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (114): 127.0.0.1:59321
+2025-11-29 20:48:49,976 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (87): 127.0.0.1:58655
+2025-11-29 20:48:50,120 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (115): 127.0.0.1:59321
+2025-11-29 20:48:50,176 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (88): 127.0.0.1:58655
+2025-11-29 20:48:50,321 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (116): 127.0.0.1:59321
+2025-11-29 20:48:50,377 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (89): 127.0.0.1:58655
+2025-11-29 20:48:50,521 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (117): 127.0.0.1:59321
+2025-11-29 20:48:50,578 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (90): 127.0.0.1:58655
+2025-11-29 20:48:50,722 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (118): 127.0.0.1:59321
+2025-11-29 20:48:50,779 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (91): 127.0.0.1:58655
+2025-11-29 20:48:50,923 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (119): 127.0.0.1:59321
+2025-11-29 20:48:50,980 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (92): 127.0.0.1:58655
+2025-11-29 20:48:51,124 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (120): 127.0.0.1:59321
+2025-11-29 20:48:51,181 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (93): 127.0.0.1:58655
+2025-11-29 20:48:51,324 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (121): 127.0.0.1:59321
+2025-11-29 20:48:51,381 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (94): 127.0.0.1:58655
+2025-11-29 20:48:51,525 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (122): 127.0.0.1:59321
+2025-11-29 20:48:51,582 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (95): 127.0.0.1:58655
+2025-11-29 20:48:51,726 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (123): 127.0.0.1:59321
+2025-11-29 20:48:51,783 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (96): 127.0.0.1:58655
+2025-11-29 20:48:51,926 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (124): 127.0.0.1:59321
+2025-11-29 20:48:51,984 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (97): 127.0.0.1:58655
+2025-11-29 20:48:52,127 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (125): 127.0.0.1:59321
+2025-11-29 20:48:52,185 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (98): 127.0.0.1:58655
+2025-11-29 20:48:52,328 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (126): 127.0.0.1:59321
+2025-11-29 20:48:52,385 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (99): 127.0.0.1:58655
+2025-11-29 20:48:52,529 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (127): 127.0.0.1:59321
+2025-11-29 20:48:52,586 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (100): 127.0.0.1:58655
+2025-11-29 20:48:52,729 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (128): 127.0.0.1:59321
+2025-11-29 20:48:52,787 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (101): 127.0.0.1:58655
+2025-11-29 20:48:52,930 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (129): 127.0.0.1:59321
+2025-11-29 20:48:52,987 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (102): 127.0.0.1:58655
+2025-11-29 20:48:53,131 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (130): 127.0.0.1:59321
+2025-11-29 20:48:53,188 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (103): 127.0.0.1:58655
+2025-11-29 20:48:53,332 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (131): 127.0.0.1:59321
+2025-11-29 20:48:53,389 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (104): 127.0.0.1:58655
+2025-11-29 20:48:53,533 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (132): 127.0.0.1:59321
+2025-11-29 20:48:53,589 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (105): 127.0.0.1:58655
+2025-11-29 20:48:53,733 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (133): 127.0.0.1:59321
+2025-11-29 20:48:53,790 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (106): 127.0.0.1:58655
+2025-11-29 20:48:53,934 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (134): 127.0.0.1:59321
+2025-11-29 20:48:53,991 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (107): 127.0.0.1:58655
+2025-11-29 20:48:54,135 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (135): 127.0.0.1:59321
+2025-11-29 20:48:54,192 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (108): 127.0.0.1:58655
+2025-11-29 20:48:54,336 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (136): 127.0.0.1:59321
+2025-11-29 20:48:54,392 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (109): 127.0.0.1:58655
+2025-11-29 20:48:54,537 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (137): 127.0.0.1:59321
+2025-11-29 20:48:54,593 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (110): 127.0.0.1:58655
+2025-11-29 20:48:54,737 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (138): 127.0.0.1:59321
+2025-11-29 20:48:54,794 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (111): 127.0.0.1:58655
+2025-11-29 20:48:54,938 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (139): 127.0.0.1:59321
+2025-11-29 20:48:54,995 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (112): 127.0.0.1:58655
+2025-11-29 20:48:55,139 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (140): 127.0.0.1:59321
+2025-11-29 20:48:55,195 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (113): 127.0.0.1:58655
+2025-11-29 20:48:55,340 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (141): 127.0.0.1:59321
+2025-11-29 20:48:55,396 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (114): 127.0.0.1:58655
+2025-11-29 20:48:55,541 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (142): 127.0.0.1:59321
+2025-11-29 20:48:55,597 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (115): 127.0.0.1:58655
+2025-11-29 20:48:55,741 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (143): 127.0.0.1:59321
+2025-11-29 20:48:55,798 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (116): 127.0.0.1:58655
+2025-11-29 20:48:55,942 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (144): 127.0.0.1:59321
+2025-11-29 20:48:55,999 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (117): 127.0.0.1:58655
+2025-11-29 20:48:56,143 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (145): 127.0.0.1:59321
+2025-11-29 20:48:56,200 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (118): 127.0.0.1:58655
+2025-11-29 20:48:56,343 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (146): 127.0.0.1:59321
+2025-11-29 20:48:56,401 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (119): 127.0.0.1:58655
+2025-11-29 20:48:56,544 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (147): 127.0.0.1:59321
+2025-11-29 20:48:56,601 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (120): 127.0.0.1:58655
+2025-11-29 20:48:56,745 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (148): 127.0.0.1:59321
+2025-11-29 20:48:56,802 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (121): 127.0.0.1:58655
+2025-11-29 20:48:56,945 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (149): 127.0.0.1:59321
+2025-11-29 20:48:57,003 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (122): 127.0.0.1:58655
+2025-11-29 20:48:57,146 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (150): 127.0.0.1:59321
+2025-11-29 20:48:57,203 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (123): 127.0.0.1:58655
+2025-11-29 20:48:57,404 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (124): 127.0.0.1:58655
+2025-11-29 20:48:57,605 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (125): 127.0.0.1:58655
+2025-11-29 20:48:57,806 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (126): 127.0.0.1:58655
+2025-11-29 20:48:58,008 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (127): 127.0.0.1:58655
+2025-11-29 20:48:58,209 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (128): 127.0.0.1:58655
+2025-11-29 20:48:58,411 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (129): 127.0.0.1:58655
+2025-11-29 20:48:58,612 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (130): 127.0.0.1:58655
+2025-11-29 20:48:58,813 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (131): 127.0.0.1:58655
+2025-11-29 20:48:59,013 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (132): 127.0.0.1:58655
+2025-11-29 20:48:59,214 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (133): 127.0.0.1:58655
+2025-11-29 20:48:59,415 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (134): 127.0.0.1:58655
+2025-11-29 20:48:59,616 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (135): 127.0.0.1:58655
+2025-11-29 20:48:59,817 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (136): 127.0.0.1:58655
+2025-11-29 20:49:00,018 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (137): 127.0.0.1:58655
+2025-11-29 20:49:00,218 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (138): 127.0.0.1:58655
+2025-11-29 20:49:00,419 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (139): 127.0.0.1:58655
+2025-11-29 20:49:00,620 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (140): 127.0.0.1:58655
+2025-11-29 20:49:00,821 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (141): 127.0.0.1:58655
+2025-11-29 20:49:01,022 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (142): 127.0.0.1:58655
+2025-11-29 20:49:01,223 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (143): 127.0.0.1:58655
+2025-11-29 20:49:01,424 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (144): 127.0.0.1:58655
+2025-11-29 20:49:01,625 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (145): 127.0.0.1:58655
+2025-11-29 20:49:01,825 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (146): 127.0.0.1:58655
+2025-11-29 20:49:02,026 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (147): 127.0.0.1:58655
+2025-11-29 20:49:02,227 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (148): 127.0.0.1:58655
+2025-11-29 20:49:02,428 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (149): 127.0.0.1:58655
+2025-11-29 20:49:02,628 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (150): 127.0.0.1:58655
+2025-11-29 20:49:15,120 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,121 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,122 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,124 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,125 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:43983
+2025-11-29 20:49:15,125 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,125 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,126 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,126 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:49817
+2025-11-29 20:49:15,127 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,127 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,127 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,128 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:35791
+2025-11-29 20:49:15,128 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:36267
+2025-11-29 20:49:15,129 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:40617
+2025-11-29 20:49:15,329 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:43983
+2025-11-29 20:49:15,330 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:49817
+2025-11-29 20:49:15,331 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:35791
+2025-11-29 20:49:15,332 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:40617
+2025-11-29 20:49:15,332 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:36267
+2025-11-29 20:49:15,531 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:43983
+2025-11-29 20:49:15,533 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:35791
+2025-11-29 20:49:15,534 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:49817
+2025-11-29 20:49:15,536 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:40617
+2025-11-29 20:49:15,537 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:36267
+2025-11-29 20:49:15,670 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:49817 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:49:15,670 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,670 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,671 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:49817
+2025-11-29 20:49:15,681 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:49817 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:49:15,702 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:40617 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:49:15,703 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,705 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,706 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:40617
+2025-11-29 20:49:15,716 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:40617 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:49:15,727 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,727 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,728 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:49817
+2025-11-29 20:49:15,729 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:49817 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:49:15,760 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,760 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,761 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:40617
+2025-11-29 20:49:15,765 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:35791 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:49:15,765 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,765 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,766 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:35791
+2025-11-29 20:49:15,771 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:40617 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:49:15,788 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:35791 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:49:15,801 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:36267 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:49:15,801 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,802 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,802 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:36267
+2025-11-29 20:49:15,818 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:43983 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:49:15,819 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,822 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:49:15,823 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:43983
+2025-11-29 20:49:15,846 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:36267 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:49:15,848 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:43983 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:50:05,275 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,277 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,278 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,279 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:40617
+2025-11-29 20:50:05,279 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,281 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,282 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:59119
+2025-11-29 20:50:05,282 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,283 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,284 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:46177
+2025-11-29 20:50:05,284 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,285 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:49321
+2025-11-29 20:50:05,285 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,285 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,286 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:33875
+2025-11-29 20:50:05,484 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:40617
+2025-11-29 20:50:05,485 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:59119
+2025-11-29 20:50:05,489 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:49321
+2025-11-29 20:50:05,491 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:46177
+2025-11-29 20:50:05,491 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (2): 127.0.0.1:33875
+2025-11-29 20:50:05,685 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:40617
+2025-11-29 20:50:05,691 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:49321
+2025-11-29 20:50:05,693 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:46177
+2025-11-29 20:50:05,694 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:59119
+2025-11-29 20:50:05,695 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (3): 127.0.0.1:33875
+2025-11-29 20:50:05,873 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:59119 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:50:05,873 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,873 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,874 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:59119
+2025-11-29 20:50:05,886 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:59119 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:50:05,904 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:40617 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:50:05,910 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,911 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,912 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:40617
+2025-11-29 20:50:05,913 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:33875 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:50:05,913 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,914 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,915 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:33875
+2025-11-29 20:50:05,917 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:49321 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:50:05,918 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,918 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,918 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:49321
+2025-11-29 20:50:05,934 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:40617 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:50:05,941 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:33875 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:50:05,942 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:46177 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:50:05,943 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,943 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,943 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:46177
+2025-11-29 20:50:05,953 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,953 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:05,954 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:59119
+2025-11-29 20:50:05,960 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:59119 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:50:05,958 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:49321 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:50:05,976 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:46177 "GET /json/version HTTP/1.1" 200 406
+2025-11-29 20:50:06,000 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:06,000 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:06,005 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:33875
+2025-11-29 20:50:06,009 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:33875 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:50:06,046 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:06,046 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:06,047 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:40617
+2025-11-29 20:50:06,050 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:40617 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:50:06,104 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:06,104 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:06,105 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:49321
+2025-11-29 20:50:06,114 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:49321 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:50:06,120 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:06,121 - DEBUG - [urllib3.util.retry] Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2025-11-29 20:50:06,121 - DEBUG - [urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:46177
+2025-11-29 20:50:06,127 - DEBUG - [urllib3.connectionpool] http://127.0.0.1:46177 "GET /json HTTP/1.1" 200 451
+2025-11-29 20:56:01,865 - DEBUG - [FacebookLogin] [100048216774173] Current URL after login: https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzY0NDI0NTQ1LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&next
+2025-11-29 20:56:01,865 - DEBUG - [FacebookLogin] [100048216774173] Page title: Log in to Facebook
+2025-11-29 20:56:01,865 - DEBUG - [FacebookLogin] [100048216774173] Is 2FA page (by URL): False
+2025-11-29 20:56:01,934 - DEBUG - [FacebookLogin] [100067585450814] Current URL after login: https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzY0NDI0NTQ1LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&next
+2025-11-29 20:56:01,934 - DEBUG - [FacebookLogin] [100067585450814] Page title: Log in to Facebook
+2025-11-29 20:56:01,934 - DEBUG - [FacebookLogin] [100067585450814] Is 2FA page (by URL): False
+2025-11-29 20:56:07,894 - INFO - [FacebookLogin] [100048216774173] No 2FA required
+2025-11-29 20:56:07,961 - INFO - [FacebookLogin] [100067585450814] No 2FA required
+2025-11-29 21:07:57,394 - DEBUG - [FacebookLogin] [100048068360222] Current URL after login: https://www.facebook.com/two_step_verification/two_factor/?encrypted_context=ARGD28mbSeDY3jvkG39X0Fg_BJVnj9mx6SncvA901FeD89O-2odxipPMTtkzuwl-rknzSMnXDp0nF8JVyD6C0KwNw-BV4OVoJW-6ix-jknWDZcomGxheKqtKP6rlYC97nmSynKF-92tSel0_rMJRpsStecIv-8zSDfTfBHoymJR0WnhX7lUrSeXrA3L1nFfvp1NdzCw2prpLvE0c-Upl5pEROuBjTw_zLrHlbeuxMVVM2bF-7odlnNBaB5K3NY1YbWL4lTk2fQXmrLcdsUKSxyuxdHGc-euz36vGEDXY9CAfjVkkIJH65v9QhzbQtnMD00JY-WAUHCZE5V5A9uffjBCMZ6J2CLu0scZH1N_CCgHyB6vYiClOl7x0cso_AwMn9oRd9UVTKRbTmMHfGCBUTN6JpPJCyKE5nROZPlJFhVII4vrCRUcXHfEs4zXjptXrNmUW701rmu_1It4Ioi6JbMxLgPFBlt3qUBWj5ulsAjAeK_6B-dyyeOo3&flow=two_factor_login&next
+2025-11-29 21:07:57,395 - DEBUG - [FacebookLogin] [100048068360222] Page title: Facebook
+2025-11-29 21:07:57,395 - DEBUG - [FacebookLogin] [100048068360222] Is 2FA page (by URL): True
+2025-11-29 21:07:57,395 - INFO - [FacebookLogin] [100048068360222] 2FA page detected, generating code...
+2025-11-29 21:07:57,395 - DEBUG - [FacebookLogin] [100048068360222] Original token: 4UQKOU3O...
+2025-11-29 21:07:57,395 - DEBUG - [FacebookLogin] [100048068360222] Cleaned token: 4UQKOU3O...
+2025-11-29 21:07:57,395 - INFO - [FacebookLogin] [100048068360222] Generated TOTP code: 062901
+2025-11-29 21:07:57,395 - INFO - [FacebookLogin] [100048068360222] Generated 2FA code: 062901
+2025-11-29 21:07:57,775 - DEBUG - [FacebookLogin] [100070800064339] Current URL after login: https://www.facebook.com/two_step_verification/two_factor/?encrypted_context=ARGsK0Z5GSDe8jGx-MIzVkfGNRN835A4eAyQJw5grl-Dq1E31obbDB0vmIl4WymKIKVyhKJ9L1rB1i6bs2MDoj8ltfapy1jc9ZNUTitfTG-JG0K4JYtSvPaYjDnz8GYH5TS_6N6sL3Gkh050qnZTM_UClqRKbBSENPVSYiaA9PpzN946a0aIyGq-LttHHBgK_x403a63Sc3SNVRCn9wAGlnsMkWPXu3gBAdghyOG2AsuxtnEefsSYrdasWKIuEJZIaf9Ac6RxfuuKOtCYHII_KAcQyBC4_ilrYON2yw9MO8EJuBvv7eNQdQ5vLERp4mZ1TdRhzvXLh8xRrzCFvP2hyTrS2VrX8NJHmYHM_8IG6GzDyYE5MrAopdMAqvuKPZjp3j7kHIxTBwTChRPZoBRir_m1cz1KwHVAa7NNDq7_jjoRsx3lQD059B-UcSvpxVSWhyBl9jW-1pkEUNe_a4gA8GXaoL9VLYfRZWilQitJAmjDBQ0plqMWTXH&flow=two_factor_login&next
+2025-11-29 21:07:57,775 - DEBUG - [FacebookLogin] [100070800064339] Page title: Facebook
+2025-11-29 21:07:57,775 - DEBUG - [FacebookLogin] [100070800064339] Is 2FA page (by URL): True
+2025-11-29 21:07:57,775 - INFO - [FacebookLogin] [100070800064339] 2FA page detected, generating code...
+2025-11-29 21:07:57,775 - DEBUG - [FacebookLogin] [100070800064339] Original token: QSGGKHNX...
+2025-11-29 21:07:57,775 - DEBUG - [FacebookLogin] [100070800064339] Cleaned token: QSGGKHNX...
+2025-11-29 21:07:57,775 - INFO - [FacebookLogin] [100070800064339] Generated TOTP code: 887223
+2025-11-29 21:07:57,776 - INFO - [FacebookLogin] [100070800064339] Generated 2FA code: 887223
+2025-11-29 21:07:58,432 - DEBUG - [FacebookLogin] [100048433699046] Current URL after login: https://www.facebook.com/two_step_verification/two_factor/?encrypted_context=AREbCbBM4b-Y5nXWPgwHEnvlUC86SwQSib4zibAO275hK-9d-PlX7_KqndWpc-RXS7vwewBsxvcr85H2bQPMwAfGI2DF7DsZDzSAvtrvjaYHKq6N14ZosMrSPnDAMlxdUAGNt4rz3W228_3vDAm9XCpfteJ7_J9Jy8qPHbY8RgjsQUyGs3tWqdaNkPGUnluC30jrPViOXzD4VqpBVBFlHx4xCqOcjuBd6X8Xj6imGHh60l9aQe9RnGyElEtQqc5bZkRe9XpXXWfea6q77UcBkA1ufnEoHlQi8pU5gtLxgR7tLiEwwaYUUuKeRTUZzYVk7olM9bRgdCqOzkKVxqng-yBPU7YPe7ZjCasAGNt_jkiZRwVZXvHyhGprOCoBdn28Ef_CEweBz9EryFf6sx_1cEeQnjISNhVw1SCAmBNNomBPQbE1CmJrRglFQSDsRdInqEZT_GJlrP0dm7TdDYUMIt5RMNX7nsHSTrqVrPM2MopmRgGOXI5991IZ&flow=two_factor_login&next
+2025-11-29 21:07:58,433 - DEBUG - [FacebookLogin] [100048433699046] Page title: Facebook
+2025-11-29 21:07:58,433 - DEBUG - [FacebookLogin] [100048433699046] Is 2FA page (by URL): True
+2025-11-29 21:07:58,433 - INFO - [FacebookLogin] [100048433699046] 2FA page detected, generating code...
+2025-11-29 21:07:58,433 - DEBUG - [FacebookLogin] [100048433699046] Original token: I3NGXKS3...
+2025-11-29 21:07:58,433 - DEBUG - [FacebookLogin] [100048433699046] Cleaned token: I3NGXKS3...
+2025-11-29 21:07:58,434 - INFO - [FacebookLogin] [100048433699046] Generated TOTP code: 313897
+2025-11-29 21:07:58,434 - INFO - [FacebookLogin] [100048433699046] Generated 2FA code: 313897
+2025-11-29 21:08:00,396 - DEBUG - [FacebookLogin] [100048068360222] Method 1: Trying text-based locators...
+2025-11-29 21:08:00,464 - DEBUG - [FacebookLogin] [100048068360222] Found with '@type=text': type=text, name=None
+2025-11-29 21:08:00,464 - INFO - [FacebookLogin] [100048068360222] Selected input field: type=text, name=None
+2025-11-29 21:08:00,484 - DEBUG - [FacebookLogin] [100048068360222] Entered 2FA code into field
+2025-11-29 21:08:00,776 - DEBUG - [FacebookLogin] [100070800064339] Method 1: Trying text-based locators...
+2025-11-29 21:08:00,839 - DEBUG - [FacebookLogin] [100070800064339] Found with '@type=text': type=text, name=None
+2025-11-29 21:08:00,839 - INFO - [FacebookLogin] [100070800064339] Selected input field: type=text, name=None
+2025-11-29 21:08:00,859 - DEBUG - [FacebookLogin] [100070800064339] Entered 2FA code into field
+2025-11-29 21:08:01,434 - DEBUG - [FacebookLogin] [100048433699046] Method 1: Trying text-based locators...
+2025-11-29 21:08:01,489 - DEBUG - [FacebookLogin] [100048068360222] Searching for submit button...
+2025-11-29 21:08:01,511 - DEBUG - [FacebookLogin] [100048433699046] Found with '@type=text': type=text, name=None
+2025-11-29 21:08:01,511 - INFO - [FacebookLogin] [100048433699046] Selected input field: type=text, name=None
+2025-11-29 21:08:01,530 - DEBUG - [FacebookLogin] [100048433699046] Entered 2FA code into field
+2025-11-29 21:08:01,860 - DEBUG - [FacebookLogin] [100070800064339] Searching for submit button...
+2025-11-29 21:08:02,531 - DEBUG - [FacebookLogin] [100048433699046] Searching for submit button...
+2025-11-29 21:08:19,551 - DEBUG - [FacebookLogin] [100048068360222] No submit button found, pressing Enter
+2025-11-29 21:08:19,932 - DEBUG - [FacebookLogin] [100070800064339] No submit button found, pressing Enter
+2025-11-29 21:08:20,575 - DEBUG - [FacebookLogin] [100048433699046] No submit button found, pressing Enter
+2025-11-29 21:08:22,593 - DEBUG - [FacebookLogin] [100048068360222] URL after 2FA submission: https://www.facebook.com/two_step_verification/two_factor/?encrypted_context=ARGD28mbSeDY3jvkG39X0Fg_BJVnj9mx6SncvA901FeD89O-2odxipPMTtkzuwl-rknzSMnXDp0nF8JVyD6C0KwNw-BV4OVoJW-6ix-jknWDZcomGxheKqtKP6rlYC97nmSynKF-92tSel0_rMJRpsStecIv-8zSDfTfBHoymJR0WnhX7lUrSeXrA3L1nFfvp1NdzCw2prpLvE0c-Upl5pEROuBjTw_zLrHlbeuxMVVM2bF-7odlnNBaB5K3NY1YbWL4lTk2fQXmrLcdsUKSxyuxdHGc-euz36vGEDXY9CAfjVkkIJH65v9QhzbQtnMD00JY-WAUHCZE5V5A9uffjBCMZ6J2CLu0scZH1N_CCgHyB6vYiClOl7x0cso_AwMn9oRd9UVTKRbTmMHfGCBUTN6JpPJCyKE5nROZPlJFhVII4vrCRUcXHfEs4zXjptXrNmUW701rmu_1It4Ioi6JbMxLgPFBlt3qUBWj5ulsAjAeK_6B-dyyeOo3&flow=two_factor_login&next
+2025-11-29 21:08:22,997 - DEBUG - [FacebookLogin] [100070800064339] URL after 2FA submission: https://www.facebook.com/two_step_verification/two_factor/?encrypted_context=ARGsK0Z5GSDe8jGx-MIzVkfGNRN835A4eAyQJw5grl-Dq1E31obbDB0vmIl4WymKIKVyhKJ9L1rB1i6bs2MDoj8ltfapy1jc9ZNUTitfTG-JG0K4JYtSvPaYjDnz8GYH5TS_6N6sL3Gkh050qnZTM_UClqRKbBSENPVSYiaA9PpzN946a0aIyGq-LttHHBgK_x403a63Sc3SNVRCn9wAGlnsMkWPXu3gBAdghyOG2AsuxtnEefsSYrdasWKIuEJZIaf9Ac6RxfuuKOtCYHII_KAcQyBC4_ilrYON2yw9MO8EJuBvv7eNQdQ5vLERp4mZ1TdRhzvXLh8xRrzCFvP2hyTrS2VrX8NJHmYHM_8IG6GzDyYE5MrAopdMAqvuKPZjp3j7kHIxTBwTChRPZoBRir_m1cz1KwHVAa7NNDq7_jjoRsx3lQD059B-UcSvpxVSWhyBl9jW-1pkEUNe_a4gA8GXaoL9VLYfRZWilQitJAmjDBQ0plqMWTXH&flow=two_factor_login&next
+2025-11-29 21:08:23,605 - DEBUG - [FacebookLogin] [100048433699046] URL after 2FA submission: https://www.facebook.com/two_step_verification/two_factor/?encrypted_context=AREbCbBM4b-Y5nXWPgwHEnvlUC86SwQSib4zibAO275hK-9d-PlX7_KqndWpc-RXS7vwewBsxvcr85H2bQPMwAfGI2DF7DsZDzSAvtrvjaYHKq6N14ZosMrSPnDAMlxdUAGNt4rz3W228_3vDAm9XCpfteJ7_J9Jy8qPHbY8RgjsQUyGs3tWqdaNkPGUnluC30jrPViOXzD4VqpBVBFlHx4xCqOcjuBd6X8Xj6imGHh60l9aQe9RnGyElEtQqc5bZkRe9XpXXWfea6q77UcBkA1ufnEoHlQi8pU5gtLxgR7tLiEwwaYUUuKeRTUZzYVk7olM9bRgdCqOzkKVxqng-yBPU7YPe7ZjCasAGNt_jkiZRwVZXvHyhGprOCoBdn28Ef_CEweBz9EryFf6sx_1cEeQnjISNhVw1SCAmBNNomBPQbE1CmJrRglFQSDsRdInqEZT_GJlrP0dm7TdDYUMIt5RMNX7nsHSTrqVrPM2MopmRgGOXI5991IZ&flow=two_factor_login&next
+2025-11-29 21:08:24,596 - DEBUG - [FacebookLogin] [100048068360222] Checking for trust device page, URL: https://www.facebook.com/two_factor/remember_browser/?encrypted_context=ARGD28mbSeDY3jvkG39X0Fg_BJVnj9mx6SncvA901FeD89O-2odxipPMTtkzuwl-rknzSMnXDp0nF8JVyD6C0KwNw-BV4OVoJW-6ix-jknWDZcomGxheKqtKP6rlYC97nmSynKF-92tSel0_rMJRpsStecIv-8zSDfTfBHoymJR0WnhX7lUrSeXrA3L1nFfvp1NdzCw2prpLvE0c-Upl5pEROuBjTw_zLrHlbeuxMVVM2bF-7odlnNBaB5K3NY1YbWL4lTk2fQXmrLcdsUKSxyuxdHGc-euz36vGEDXY9CAfjVkkIJH65v9QhzbQtnMD00JY-WAUHCZE5V5A9uffjBCMZ6J2CLu0scZH1N_CCgHyB6vYiClOl7x0cso_AwMn9oRd9UVTKRbTmMHfGCBUTN6JpPJCyKE5nROZPlJFhVII4vrCRUcXHfEs4zXjptXrNmUW701rmu_1It4Ioi6JbMxLgPFBlt3qUBWj5ulsAjAeK_6B-dyyeOo3&next=
+2025-11-29 21:08:24,597 - INFO - [FacebookLogin] [100048068360222] Trust device page detected, looking for Trust button...
+2025-11-29 21:08:24,746 - DEBUG - [FacebookLogin] [100048068360222] Found element with text selector: text:Trust this device
+2025-11-29 21:08:24,746 - INFO - [FacebookLogin] [100048068360222] Clicking Trust this device button...
+2025-11-29 21:08:24,998 - DEBUG - [FacebookLogin] [100070800064339] Checking for trust device page, URL: https://www.facebook.com/two_step_verification/two_factor/?encrypted_context=ARGsK0Z5GSDe8jGx-MIzVkfGNRN835A4eAyQJw5grl-Dq1E31obbDB0vmIl4WymKIKVyhKJ9L1rB1i6bs2MDoj8ltfapy1jc9ZNUTitfTG-JG0K4JYtSvPaYjDnz8GYH5TS_6N6sL3Gkh050qnZTM_UClqRKbBSENPVSYiaA9PpzN946a0aIyGq-LttHHBgK_x403a63Sc3SNVRCn9wAGlnsMkWPXu3gBAdghyOG2AsuxtnEefsSYrdasWKIuEJZIaf9Ac6RxfuuKOtCYHII_KAcQyBC4_ilrYON2yw9MO8EJuBvv7eNQdQ5vLERp4mZ1TdRhzvXLh8xRrzCFvP2hyTrS2VrX8NJHmYHM_8IG6GzDyYE5MrAopdMAqvuKPZjp3j7kHIxTBwTChRPZoBRir_m1cz1KwHVAa7NNDq7_jjoRsx3lQD059B-UcSvpxVSWhyBl9jW-1pkEUNe_a4gA8GXaoL9VLYfRZWilQitJAmjDBQ0plqMWTXH&flow=two_factor_login&next
+2025-11-29 21:08:24,998 - INFO - [FacebookLogin] [100070800064339] Trust device page detected, looking for Trust button...
+2025-11-29 21:08:25,607 - DEBUG - [FacebookLogin] [100048433699046] Checking for trust device page, URL: https://www.facebook.com/two_factor/remember_browser/?encrypted_context=AREbCbBM4b-Y5nXWPgwHEnvlUC86SwQSib4zibAO275hK-9d-PlX7_KqndWpc-RXS7vwewBsxvcr85H2bQPMwAfGI2DF7DsZDzSAvtrvjaYHKq6N14ZosMrSPnDAMlxdUAGNt4rz3W228_3vDAm9XCpfteJ7_J9Jy8qPHbY8RgjsQUyGs3tWqdaNkPGUnluC30jrPViOXzD4VqpBVBFlHx4xCqOcjuBd6X8Xj6imGHh60l9aQe9RnGyElEtQqc5bZkRe9XpXXWfea6q77UcBkA1ufnEoHlQi8pU5gtLxgR7tLiEwwaYUUuKeRTUZzYVk7olM9bRgdCqOzkKVxqng-yBPU7YPe7ZjCasAGNt_jkiZRwVZXvHyhGprOCoBdn28Ef_CEweBz9EryFf6sx_1cEeQnjISNhVw1SCAmBNNomBPQbE1CmJrRglFQSDsRdInqEZT_GJlrP0dm7TdDYUMIt5RMNX7nsHSTrqVrPM2MopmRgGOXI5991IZ&next=
+2025-11-29 21:08:25,607 - INFO - [FacebookLogin] [100048433699046] Trust device page detected, looking for Trust button...
+2025-11-29 21:08:25,735 - DEBUG - [FacebookLogin] [100048433699046] Found element with text selector: text:Trust this device
+2025-11-29 21:08:25,736 - INFO - [FacebookLogin] [100048433699046] Clicking Trust this device button...
+2025-11-29 21:08:27,237 - ERROR - [FacebookLogin] [100048433699046] Error handling trust device page: 
+This element has no location or size.
+Version: 4.1.1.2
+Traceback (most recent call last):
+  File "/home/dinhlongit/Documents/dinhlongit1/fewfeed_api/facebook_manager/core/facebook_login.py", line 546, in _handle_remember_browser
+    trust_button.click()
+  File "/home/dinhlongit/.local/lib/python3.11/site-packages/DrissionPage/_units/clicker.py", line 23, in __call__
+    return self.left(by_js, timeout, wait_stop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dinhlongit/.local/lib/python3.11/site-packages/DrissionPage/_units/clicker.py", line 69, in left
+    raise NoRectError
+DrissionPage.errors.NoRectError: 
+This element has no location or size.
+Version: 4.1.1.2
+2025-11-29 21:08:27,281 - DEBUG - [FacebookLogin] [100070800064339] Found element with text selector: text:Trust
+2025-11-29 21:08:27,281 - INFO - [FacebookLogin] [100070800064339] Clicking Trust this device button...
+2025-11-29 21:08:28,044 - DEBUG - [FacebookLogin] [100048068360222] URL after clicking Trust: https://www.facebook.com/two_factor/remember_browser/?encrypted_context=ARGD28mbSeDY3jvkG39X0Fg_BJVnj9mx6SncvA901FeD89O-2odxipPMTtkzuwl-rknzSMnXDp0nF8JVyD6C0KwNw-BV4OVoJW-6ix-jknWDZcomGxheKqtKP6rlYC97nmSynKF-92tSel0_rMJRpsStecIv-8zSDfTfBHoymJR0WnhX7lUrSeXrA3L1nFfvp1NdzCw2prpLvE0c-Upl5pEROuBjTw_zLrHlbeuxMVVM2bF-7odlnNBaB5K3NY1YbWL4lTk2fQXmrLcdsUKSxyuxdHGc-euz36vGEDXY9CAfjVkkIJH65v9QhzbQtnMD00JY-WAUHCZE5V5A9uffjBCMZ6J2CLu0scZH1N_CCgHyB6vYiClOl7x0cso_AwMn9oRd9UVTKRbTmMHfGCBUTN6JpPJCyKE5nROZPlJFhVII4vrCRUcXHfEs4zXjptXrNmUW701rmu_1It4Ioi6JbMxLgPFBlt3qUBWj5ulsAjAeK_6B-dyyeOo3&next=
+2025-11-29 21:08:28,782 - ERROR - [FacebookLogin] [100070800064339] Error handling trust device page: 
+This element has no location or size.
+Version: 4.1.1.2
+Traceback (most recent call last):
+  File "/home/dinhlongit/Documents/dinhlongit1/fewfeed_api/facebook_manager/core/facebook_login.py", line 546, in _handle_remember_browser
+    trust_button.click()
+  File "/home/dinhlongit/.local/lib/python3.11/site-packages/DrissionPage/_units/clicker.py", line 23, in __call__
+    return self.left(by_js, timeout, wait_stop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dinhlongit/.local/lib/python3.11/site-packages/DrissionPage/_units/clicker.py", line 69, in left
+    raise NoRectError
+DrissionPage.errors.NoRectError: 
+This element has no location or size.
+Version: 4.1.1.2
+2025-11-29 22:18:36,461 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:19:01,559 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:19:01,560 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:19:01,561 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:19:02,604 - INFO - [core.browser_launcher] [100070800064339] Window set to: pos=(1280,0), size=(640x540)
+2025-11-29 22:19:02,717 - INFO - [core.browser_launcher] [100048068360222] Window set to: pos=(640,0), size=(640x540)
+2025-11-29 22:19:02,735 - INFO - [core.browser_launcher] [100048433699046] Window set to: pos=(0,0), size=(640x540)
+2025-11-29 22:26:44,185 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:33:24,375 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:36:44,405 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:39:38,924 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:40:43,134 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:40:43,136 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:40:43,137 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:40:44,157 - INFO - [core.browser_launcher] [100048433699046] Window set to: pos=(0,0), size=(640x540)
+2025-11-29 22:40:44,174 - INFO - [core.browser_launcher] [100070800064339] Window set to: pos=(1280,0), size=(640x540)
+2025-11-29 22:40:44,313 - INFO - [core.browser_launcher] [100048068360222] Window set to: pos=(640,0), size=(640x540)
+2025-11-29 22:51:33,529 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:52:03,240 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:52:03,242 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:52:03,243 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:52:04,277 - INFO - [core.browser_launcher] [100070800064339] Window set to: pos=(1280,0), size=(640x540)
+2025-11-29 22:52:04,280 - INFO - [core.browser_launcher] [100048068360222] Window set to: pos=(640,0), size=(640x540)
+2025-11-29 22:52:04,352 - INFO - [core.browser_launcher] [100048433699046] Window set to: pos=(0,0), size=(640x540)
+2025-11-29 22:54:42,119 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 22:54:48,138 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
+2025-11-29 23:16:48,761 - INFO - [core.browser_launcher] Grid: 1920x1080 -> 640x540
